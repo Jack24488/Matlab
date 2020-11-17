@@ -6,4 +6,4 @@ function example1(n)
   end
   disp(sum);
 结束
-    //求1+2+3+...+n   
+    //求1*2*3*... *n   
