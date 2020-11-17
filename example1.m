@@ -5,5 +5,5 @@ function example1(n)
      sum=sum+m;
   end
   disp(sum);
-结束
-    //求1*2*3*... *n   
+end
+    
